@@ -1,0 +1,11 @@
+.input {
+  padding: 20px;
+  font-size: 16px;
+  width: fit-content;
+  margin-inline: 20px;
+  border: 1px solid rgb(236, 236, 236);
+}
+
+.input::placeholder {
+  color: rgb(236, 236, 236);
+}
